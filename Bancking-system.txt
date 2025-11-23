@@ -1,0 +1,132 @@
+Banking System Example
+User Stories
+
+Account Creation
+
+As a new user, I want to create a bank account so that I can start using banking services.
+
+Acceptance Criteria: User can sign up with personal information, get account number, and receive a welcome message.
+
+Weight: Medium (Story Points: 5)
+
+User Login
+
+As a registered user, I want to log in to my account securely so that I can access my banking services.
+
+Acceptance Criteria: User can log in using username and password; supports password reset.
+
+Weight: Medium (Story Points: 3)
+
+View Account Balance
+
+As a user, I want to view my account balance so that I can know how much money I have.
+
+Acceptance Criteria: Display current balance instantly after login.
+
+Weight: Low (Story Points: 2)
+
+Fund Transfer
+
+As a user, I want to transfer funds to another account so that I can pay bills or send money.
+
+Acceptance Criteria: User can input recipient details, amount, and confirm transaction; receive confirmation message.
+
+Weight: High (Story Points: 8)
+
+Transaction History
+
+As a user, I want to view my transaction history so that I can track past deposits and withdrawals.
+
+Acceptance Criteria: Show all transactions with date, amount, type, and description.
+
+Weight: Medium (Story Points: 5)
+
+Deposit Money
+
+As a user, I want to deposit money into my account so that my balance increases.
+
+Acceptance Criteria: User can deposit via cash, cheque, or online transfer; balance updates immediately.
+
+Weight: Medium (Story Points: 4)
+
+Withdraw Money
+
+As a user, I want to withdraw money from my account so that I can use cash when needed.
+
+Acceptance Criteria: Withdraw funds via ATM or branch; balance updates; show error for insufficient funds.
+
+Weight: Medium (Story Points: 4)
+
+Loan Application
+
+As a user, I want to apply for a loan so that I can get financial support for my needs.
+
+Acceptance Criteria: Submit loan request with amount and duration; get status (approved/rejected).
+
+Weight: High (Story Points: 8)
+
+Loan Repayment
+
+As a user, I want to repay my loan installments so that my debt decreases over time.
+
+Acceptance Criteria: User can schedule repayment; system updates outstanding loan balance.
+
+Weight: High (Story Points: 6)
+
+Account Statement Generation
+
+As a user, I want to download my account statement so that I can keep a record of transactions.
+
+Acceptance Criteria: Generate statement in PDF or Excel for selected period.
+
+Weight: Medium (Story Points: 5)
+
+Account Closure
+
+As a user, I want to close my account if I no longer need it so that I can terminate services.
+
+Acceptance Criteria: Confirm account closure; remaining balance transferred; account deactivated.
+
+Weight: Medium (Story Points: 4)
+
+Notifications
+
+As a user, I want to receive notifications for transactions and important updates so that I stay informed.
+
+Acceptance Criteria: Email/SMS notifications for deposits, withdrawals, transfers, and loan updates.
+
+Weight: Medium (Story Points: 3)
+
+Beneficiary Management
+
+As a user, I want to add and manage beneficiaries for fund transfers so that I can transfer money faster.
+
+Acceptance Criteria: Add, edit, or delete beneficiaries; validate account numbers.
+
+Weight: Medium (Story Points: 4)
+
+Currency Exchange
+
+As a user, I want to convert my money to different currencies so that I can make international payments.
+
+Acceptance Criteria: Show live exchange rates; process conversion; update account balance.
+
+Weight: High (Story Points: 7)
+
+Security & Fraud Alerts
+
+As a user, I want alerts for suspicious activities so that I can protect my account.
+
+Acceptance Criteria: Detect unusual transactions; send immediate alerts; allow user to report fraud.
+
+Weight: High (Story Points: 8)
+
+Product Backlog Summary (Weighted)
+
+High Priority & Complexity: Fund Transfer, Loan Application, Loan Repayment, Currency Exchange, Security Alerts
+
+Medium Priority: Account Creation, Login, Transaction History, Deposit, Withdraw, Account Statement, Beneficiary Management
+
+Low Priority: View Balance
+
+This backlog is ready for sprint planning, with each story estimated by complexity (Story Points), priority, and business value.
