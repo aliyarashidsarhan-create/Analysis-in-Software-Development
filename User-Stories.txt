@@ -1,0 +1,9 @@
+User Stories (Short Overview)
+
+Definition & Format: A user story is a simple description of a software feature from the end-user’s perspective. It follows the format:
+“As a [user role], I want [goal] so that [benefit].”
+This captures who wants it, what they want, and why.
+
+Writing Effective User Stories: Effective stories are clear, concise, and focused on user value. They should be understandable by both developers and stakeholders and small enough to implement in one iteration.
+
+Acceptance Criteria: These are conditions that must be met for the story to be considered complete. They provide clarity, guide development, and help with testing. Acceptance criteria ensure the feature works as intended and meets user expectations.
