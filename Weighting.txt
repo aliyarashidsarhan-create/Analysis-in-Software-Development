@@ -1,0 +1,21 @@
+Story Point Estimation Techniques
+
+Story points are a way to measure the effort required to complete a user story. They focus on complexity, effort, and risk, rather than exact time. Common techniques include:
+
+Planning Poker: Team members use numbered cards to estimate a story’s points. After discussion, cards are revealed simultaneously. Differences in estimates spark discussion until consensus is reached.
+
+T-Shirt Sizing: Stories are categorized as XS, S, M, L, XL based on their relative effort. It’s quick and intuitive for high-level estimation.
+
+Bucket System: Stories are grouped into “buckets” representing different effort ranges. This is useful for estimating many stories quickly.
+
+Weighting User Stories
+
+User stories can also be weighted to prioritize work and reflect business impact:
+
+Complexity: How difficult or time-consuming the story is to implement. Higher complexity usually gets higher weight.
+
+Priority: Stories critical to business goals or deadlines are weighted higher.
+
+Business Value: Stories that deliver more value to users or stakeholders get more weight.
+
+By combining story points with weighting factors, teams can plan sprints more effectively, ensuring high-value work is completed first while balancing effort and complexity.
