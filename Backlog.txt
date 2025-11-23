@@ -1,0 +1,9 @@
+Product Backlog Development
+
+A product backlog is a prioritized list of features, enhancements, bug fixes, and technical tasks required for a product. It serves as a central repository for all work items that the development team will address, helping to align the team with the product vision and goals.
+
+To create and structure a product backlog, start by gathering requirements from stakeholders and breaking them into manageable user stories or tasks. Each item should include a clear description, acceptance criteria, and estimated effort. Organize backlog items by priority, value, and dependencies to ensure smooth development flow.
+
+Backlog prioritization techniques help determine which items deliver the most value. Common methods include MoSCoW (Must have, Should have, Could have, Won’t have), Kano Model, and Weighted Shortest Job First (WSJF). These approaches balance business value, urgency, and complexity.
+
+Backlog refinement and maintenance involve regularly reviewing and updating backlog items. This includes adding new items, removing outdated ones, re-prioritizing based on changing business needs, and clarifying requirements to ensure the backlog remains actionable and aligned with the product roadmap.
